@@ -1,0 +1,71 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="" type="rst"/>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="conjunction" type="multinuc"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="disjunction" type="multinuc"/>
+			<rel name="e-elaboration" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-n" type="rst"/>
+			<rel name="evaluation-s" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="list" type="multinuc"/>
+			<rel name="means" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="reason-N" type="rst"/>
+			<rel name="reason" type="rst"/>
+			<rel name="restatement-mn" type="multinuc"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sameunit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+			<rel name="unconditional" type="rst"/>
+			<rel name="unless" type="rst"/>
+			<rel name="unstated-relation" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="17" relname="background">Um die deutschen Legehennen ist heftiger politischer Streit entbrannt .</segment>
+		<segment id="2" parent="13" relname="contrast">Bundesagrarministerin Renate Künast will das Halten der Tiere in engen Legebatterien bereits vom Jahr 2006 an verbieten .</segment>
+		<segment id="3" parent="13" relname="contrast">In den EU-Nachbarländern soll das erst fünf Jahre später gelten .</segment>
+		<segment id="4" parent="30" relname="span">Eier-Produzenten aus der ganzen Republik machen gegen Künasts Pläne mobil .</segment>
+		<segment id="5" parent="6" relname="attribution">Die Betriebe im Osten fürchten ,</segment>
+		<segment id="6" parent="16" relname="span">dass die hohen Investitionen , die sie in moderne Legebatterien nach europäischem Standard gesteckt haben , umsonst gewesen sind .</segment>
+		<segment id="7" parent="14" relname="contrast">Im Westen herrscht die Sorge vor , ausländische Konkurrenten könnten dann mit Billig-Eiern aus Legebatterien den deutschen Markt überschwemmen .</segment>
+		<segment id="8" parent="19" relname="evaluation-s">Beide Bedenken sind nicht einfach von der Hand zu weisen .</segment>
+		<segment id="9" parent="31" relname="span">Ministerin Künast muss zumindest über längere Übergangsfristen nachdenken .</segment>
+		<segment id="10" parent="15" relname="span">Am Grundsatz , die Käfighaltung abzuschaffen , sollte sie nicht rütteln .</segment>
+		<segment id="11" parent="21" relname="conjunction">Artgerechte Tierhaltung gehört schließlich zu den Eckpunkten der von ihr propagierten Agrarwende .</segment>
+		<segment id="12" parent="21" relname="conjunction">Und schließlich greifen immer mehr Verbraucher beim Einkauf bewußt zu den tierfreundlich erzeugten Eiern .</segment>
+		<group id="13" type="multinuc" parent="17" relname="span"/>
+		<group id="14" type="multinuc" parent="19" relname="span"/>
+		<group id="15" type="span" parent="9" relname="antithesis"/>
+		<group id="16" type="span" parent="14" relname="contrast"/>
+		<group id="17" type="span" parent="18" relname="span"/>
+		<group id="18" type="span" parent="4" relname="circumstance"/>
+		<group id="19" type="span" parent="29" relname="span"/>
+		<group id="21" type="multinuc" parent="10" relname="reason"/>
+		<group id="25" type="span" parent="31" relname="solutionhood"/>
+		<group id="29" type="span" parent="25" relname="span"/>
+		<group id="30" type="span" parent="29" relname="reason-N"/>
+		<group id="31" type="span" parent="33" relname="span"/>
+		<group id="33" type="span" />
+	</body>
+</rst>

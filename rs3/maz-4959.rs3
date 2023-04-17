@@ -1,0 +1,79 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="" type="rst"/>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="conjunction" type="multinuc"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="disjunction" type="multinuc"/>
+			<rel name="e-elaboration" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-n" type="rst"/>
+			<rel name="evaluation-s" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="list" type="multinuc"/>
+			<rel name="means" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="reason-N" type="rst"/>
+			<rel name="reason" type="rst"/>
+			<rel name="restatement-mn" type="multinuc"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sameunit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood-N" type="rst"/>
+			<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+			<rel name="unconditional" type="rst"/>
+			<rel name="unless" type="rst"/>
+			<rel name="unstated-relation" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="2" relname="attribution">Jeder , der sein Kind in einen Schulbus einsteigen sieht , hofft ,</segment>
+		<segment id="2" parent="23" relname="span">dass es am Ende der Fahrt heil und gesund wieder aussteigt .</segment>
+		<segment id="3" parent="19" relname="span">Die Kampagne des Amtes für Arbeitsschutz , Bus und Fahrer vor Beginn einer Klassenfahrt zu prüfen , ist wichtig :</segment>
+		<segment id="4" parent="28" relname="span">Kontrollen dieser Art erhöhen die Sicherheit der jungen Passagiere .</segment>
+		<segment id="5" parent="24" relname="span">Übermüdete Fahrer sind jedoch nur eine Gefahr , die gebannt werden muss .</segment>
+		<segment id="6" parent="25" relname="list">Wie das Unglück von Altlandsberg vor zwei Jahren zeigt , stellen auch übermütige , schlecht beaufsichtigte Kinder ein Risiko dar .</segment>
+		<segment id="7" parent="25" relname="list">Dazu kommen noch die Fehler der anderen Verkehrsteilnehmer .</segment>
+		<segment id="8" parent="32" relname="span">Absolute Sicherheit kann es nicht geben .</segment>
+		<segment id="9" parent="22" relname="list">Selbst wenn der Bus tipptopp in Schuss ist ,</segment>
+		<segment id="10" parent="22" relname="list">die Fahrer ausgeruht ,</segment>
+		<segment id="11" parent="22" relname="list">die Kinder gesittet</segment>
+		<segment id="12" parent="22" relname="list">und alle anderen Autofahrer rücksichtsvoll sind ,</segment>
+		<segment id="13" parent="21" relname="span">besteht immer noch die Gefahr von höherer Gewalt</segment>
+		<segment id="14" parent="13" relname="elaboration">- der sprichwörtliche Blitzschlag lässt sich nicht vermeiden .</segment>
+		<segment id="15" parent="29" relname="span">Die Wahrscheinlichkeit solcher Unglücke tendiert jedoch gegen Null .</segment>
+		<segment id="16" parent="31" relname="span">Größer ist die Bedrohung durch so genanntes menschliches und technisches Versagen .</segment>
+		<segment id="17" parent="26" relname="span">Und die kann man vermeiden :</segment>
+		<segment id="18" parent="17" relname="means">Indem man die Fahrtüchtigkeit aller , die am Verkehrsgeschehen beteiligt sind - Fahrer , Passagiere und Fahrzeuge - prüft .</segment>
+		<group id="19" type="span" parent="4" relname="reason-N"/>
+		<group id="21" type="span" parent="27" relname="span"/>
+		<group id="22" type="multinuc" parent="21" relname="condition"/>
+		<group id="23" type="span" parent="3" relname="reason-N"/>
+		<group id="24" type="span" parent="25" relname="list"/>
+		<group id="25" type="multinuc" parent="8" relname="reason"/>
+		<group id="26" type="span" parent="16" relname="solutionhood-N"/>
+		<group id="27" type="span" parent="15" relname="concession"/>
+		<group id="28" type="span" parent="5" relname="concession"/>
+		<group id="29" type="span" parent="31" relname="antithesis"/>
+		<group id="30" type="span" parent="33" relname="span"/>
+		<group id="31" type="span" parent="30" relname="span"/>
+		<group id="32" type="span" parent="30" relname="background"/>
+		<group id="33" type="span" />
+	</body>
+</rst>

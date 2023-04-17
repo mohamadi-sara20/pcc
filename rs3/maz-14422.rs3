@@ -1,0 +1,91 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="" type="rst"/>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="conjunction" type="multinuc"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="disjunction" type="multinuc"/>
+			<rel name="e-elaboration" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-n" type="rst"/>
+			<rel name="evaluation-s" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="list" type="multinuc"/>
+			<rel name="means" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="reason-N" type="rst"/>
+			<rel name="reason" type="rst"/>
+			<rel name="restatement-mn" type="multinuc"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sameunit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood-N" type="rst"/>
+			<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+			<rel name="unconditional" type="rst"/>
+			<rel name="unless" type="rst"/>
+			<rel name="unstated-relation" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="32" relname="span">Es ist zweifellos ein großer Zugewinn , dass Eltern heute unter Kindertagesstätten wählen können ,</segment>
+		<segment id="2" parent="1" relname="e-elaboration">die unterschiedliche pädagogische Konzepte bieten .</segment>
+		<segment id="3" parent="29" relname="span">Es ist auch von Vorteil , dass die Kitas einer strengen Aufsicht unterliegen ,</segment>
+		<segment id="4" parent="3" relname="e-elaboration">die über die räumlichen Bedingungen wacht .</segment>
+		<segment id="5" parent="31" relname="span">Doch wichtiger als die Quadratmetergrößen von Spielzimmern , die Qualität von Bodenbelägen und aseptische Waschräume erachten die meisten Eltern andere Richtwerte .</segment>
+		<segment id="6" parent="28" relname="list">Sie wollen vor allem , dass ihr Kind in einer harmonischen Umgebung den Tag verbringt ,</segment>
+		<segment id="7" parent="28" relname="list">dass es ständige Bezugspersonen hat , die ihm Liebe und Wärme und Konsequenz entgegen bringen .</segment>
+		<segment id="8" parent="35" relname="circumstance">Wenn die Knirpse herausgewachsen sind ,</segment>
+		<segment id="9" parent="34" relname="attribution">erinnern sie sich vor allem ,</segment>
+		<segment id="10" parent="27" relname="list">ob sie in ihrem Kindergarten glücklich waren ,</segment>
+		<segment id="11" parent="33" relname="conjunction">ob sie die Tanten leiden mochten</segment>
+		<segment id="12" parent="33" relname="conjunction">oder nur sehnsüchtig den Abend herbeisehnten .</segment>
+		<segment id="13" parent="25" relname="span">Im " Spatzennest " Groß Glienicke gehört das Klima zu den Stärken des Hauses ,</segment>
+		<segment id="14" parent="13" relname="concession">auch wenn das manchmal nach Essen riecht .</segment>
+		<segment id="15" parent="24" relname="span">Aber die Kinder sehen noch , wie gekocht wird ,</segment>
+		<segment id="16" parent="15" relname="antithesis">anstatt mit Assiettenkost abgespeist zu werden .</segment>
+		<segment id="17" parent="23" relname="reason">All das weiß man im Ort zu schätzen ,</segment>
+		<segment id="18" parent="41" relname="span">darum setzt nun ,</segment>
+		<segment id="19" parent="18" relname="elaboration">da ein Betrugsskandal das Haus erschüttert ,</segment>
+		<segment id="20" parent="40" relname="sameunit">eine Rettungsaktion ein ,</segment>
+		<segment id="21" parent="22" relname="e-elaboration">der man nur Erfolg wünschen kann .</segment>
+		<group id="22" type="span" parent="23" relname="span"/>
+		<group id="23" type="span" parent="45" relname="span"/>
+		<group id="24" type="span" parent="25" relname="reason"/>
+		<group id="25" type="span" parent="26" relname="span"/>
+		<group id="26" type="span" parent="46" relname="span"/>
+		<group id="27" type="multinuc" parent="34" relname="span"/>
+		<group id="28" type="multinuc" parent="38" relname="span"/>
+		<group id="29" type="span" parent="30" relname="list"/>
+		<group id="30" type="multinuc" parent="5" relname="concession"/>
+		<group id="31" type="span" parent="37" relname="span"/>
+		<group id="32" type="span" parent="30" relname="list"/>
+		<group id="33" type="multinuc" parent="27" relname="list"/>
+		<group id="34" type="span" parent="35" relname="span"/>
+		<group id="35" type="span" parent="36" relname="span"/>
+		<group id="36" type="span" parent="38" relname="reason"/>
+		<group id="37" type="span" parent="46" relname="background"/>
+		<group id="38" type="span" parent="39" relname="span"/>
+		<group id="39" type="span" parent="31" relname="elaboration"/>
+		<group id="40" type="multinuc" parent="22" relname="span"/>
+		<group id="41" type="span" parent="40" relname="sameunit"/>
+		<group id="45" type="span" parent="26" relname="interpretation"/>
+		<group id="46" type="span" parent="47" relname="span"/>
+		<group id="47" type="span" />
+	</body>
+</rst>

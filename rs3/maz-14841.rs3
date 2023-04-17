@@ -1,0 +1,80 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="" type="rst"/>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="conjunction" type="multinuc"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="disjunction" type="multinuc"/>
+			<rel name="e-elaboration" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-n" type="rst"/>
+			<rel name="evaluation-s" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="list" type="multinuc"/>
+			<rel name="means" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="reason-N" type="rst"/>
+			<rel name="reason" type="rst"/>
+			<rel name="restatement-mn" type="multinuc"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sameunit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood-N" type="rst"/>
+			<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+			<rel name="unconditional" type="rst"/>
+			<rel name="unless" type="rst"/>
+			<rel name="unstated-relation" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="19" relname="cause">Noch 29 Tage , dann ist unsere geliebte D-Mark keine offizielle Währung mehr .</segment>
+		<segment id="2" parent="19" relname="span">Mit der Einführung des Euros wird vieles teurer ,</segment>
+		<segment id="3" parent="23" relname="list">weil Pfennig- zu Centbeträge sicher eher auf- statt abgerundet werden .</segment>
+		<segment id="4" parent="20" relname="span">Manche Geschäftsleute werden vor der Währungsumstellung noch schnell ihre Ware verteuern ,</segment>
+		<segment id="5" parent="4" relname="purpose">damit sie sich besser umrechnen lässt .</segment>
+		<segment id="6" parent="21" relname="span">Da ist es um so erfreulicher ,</segment>
+		<segment id="7" parent="6" relname="condition">wenn ausnahmsweise etwas billiger wird .</segment>
+		<segment id="8" parent="21" relname="elaboration">Und noch dazu etwas , dass jeder braucht .</segment>
+		<segment id="9" parent="18" relname="span">Die Gasversorgung Zehdenick wird den Erdgaspreis senken .</segment>
+		<segment id="10" parent="9" relname="result">Ein vierköpfiger Haushalt spart dann im kommenden Jahr immerhin etwa 57,50 Mark gegenüber 2001 .</segment>
+		<segment id="11" parent="12" relname="concession">Beim Strom ließ sich die Preissteigerung wegen der neuen Ökosteuer-Stufe zwar nicht stabil halten .</segment>
+		<segment id="12" parent="27" relname="span">Die Stadtwerke haben aber auf den Preis ausschließlich die Ökosteuererhöhung umgelegt .</segment>
+		<segment id="13" parent="17" relname="contrast">Preiserhöhungen des Zulieferers dagegen blieben unberücksichtigt .</segment>
+		<segment id="14" parent="31" relname="reason">Die schwierige Wirtschaftslage jedenfalls muss nicht zwangsläufig zu Preissteigerungen führen .</segment>
+		<segment id="15" parent="16" relname="preparation">Für den Verbraucher wächst die Hoffnung , dass es vielleicht auch der Bäcker , Frisör und Kaufmannsladen nebenan halten wie die Stadtwerke Zehdenick :</segment>
+		<segment id="16" parent="31" relname="span">Preise runter oder wenigstens nur das Nötigste umlegen .</segment>
+		<group id="17" type="multinuc" parent="29" relname="list"/>
+		<group id="18" type="span" parent="29" relname="list"/>
+		<group id="19" type="span" parent="24" relname="span"/>
+		<group id="20" type="span" parent="23" relname="list"/>
+		<group id="21" type="span" parent="22" relname="span"/>
+		<group id="22" type="span" parent="34" relname="background"/>
+		<group id="23" type="multinuc" parent="2" relname="cause"/>
+		<group id="24" type="span" parent="36" relname="contrast"/>
+		<group id="27" type="span" parent="17" relname="contrast"/>
+		<group id="29" type="multinuc" parent="34" relname="span"/>
+		<group id="30" type="span" parent="33" relname="span"/>
+		<group id="31" type="span" parent="32" relname="span"/>
+		<group id="32" type="span" parent="30" relname="interpretation"/>
+		<group id="33" type="span" />
+		<group id="34" type="span" parent="37" relname="span"/>
+		<group id="36" type="multinuc" parent="30" relname="span"/>
+		<group id="37" type="span" parent="36" relname="contrast"/>
+	</body>
+</rst>

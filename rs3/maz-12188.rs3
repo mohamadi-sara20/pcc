@@ -1,0 +1,78 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="" type="rst"/>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="conjunction" type="multinuc"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="disjunction" type="multinuc"/>
+			<rel name="e-elaboration" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-n" type="rst"/>
+			<rel name="evaluation-s" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="list" type="multinuc"/>
+			<rel name="means" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="reason-N" type="rst"/>
+			<rel name="reason" type="rst"/>
+			<rel name="restatement-mn" type="multinuc"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sameunit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood-N" type="rst"/>
+			<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+			<rel name="unconditional" type="rst"/>
+			<rel name="unless" type="rst"/>
+			<rel name="unstated-relation" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="21" relname="evaluation-s">Die Idee besticht .</segment>
+		<segment id="2" parent="21" relname="span">Die drei Grundschulen Hohenstückens gehen zusammen ,</segment>
+		<segment id="3" parent="2" relname="elaboration">und zwar so schnell wie möglich .</segment>
+		<segment id="4" parent="5" relname="cause">Weil für dann rund 500 Schüler nur im Schulhaus am Marktplatz genügend Raum ist ,</segment>
+		<segment id="5" parent="22" relname="span">nistet sich die dann neue Schule erst einmal dort ein .</segment>
+		<segment id="6" parent="20" relname="span">Und nun hat die künftige Schulkonferenz genügend Zeit , den endgültigen Standort zu wählen .</segment>
+		<segment id="7" parent="17" relname="span">Dass die Marktplatz-Schule nicht in Frage kommt , ist seit Jahren klar .</segment>
+		<segment id="8" parent="7" relname="evidence">Doppelschulen , und dazu gehört dieses Gebäude , will die Stadt nicht sanieren .</segment>
+		<segment id="9" parent="26" relname="span">Der Vorschlag , den die Verwaltung jetzt den Stadtverordneten unterbreiten will , wäre allerdings nicht ohne die Weitsicht der drei Schulkonferenzen zustande gekommen .</segment>
+		<segment id="10" parent="9" relname="e-elaboration">Sie haben sich für die Fusion und einen schnellstmöglichen Vollzug ausgesprochen .</segment>
+		<segment id="11" parent="18" relname="condition">Gehen die Abgeordneten mit ,</segment>
+		<segment id="12" parent="18" relname="span">haben die Schüler und Lehrer gewonnen</segment>
+		<segment id="13" parent="24" relname="span">- nämlich die nötige Ruhe , Zuversicht und Planungssicherheit ,</segment>
+		<segment id="14" parent="13" relname="purpose">um Unterricht vernünftig gestalten zu können .</segment>
+		<segment id="15" parent="33" relname="list">Ob in wenigen Jahren die Grimm- oder die Vierjahreszeiten-Schule endgültiges Domizil wird , hängt auch von der Entwicklung der jeweiligen Gebäude-Mitnutzer ab .</segment>
+		<segment id="16" parent="33" relname="list">Die Realschule , die sich mit den Grimm-Schülern das Haus teilt , sieht zumindest ab dem Jahr 2004 einer gefährdeten Existenz entgegen .</segment>
+		<group id="17" type="span" parent="34" relname="contrast"/>
+		<group id="18" type="span" parent="19" relname="span"/>
+		<group id="19" type="span" parent="26" relname="elaboration"/>
+		<group id="20" type="span" parent="35" relname="span"/>
+		<group id="21" type="span" parent="23" relname="span"/>
+		<group id="22" type="span" parent="20" relname="circumstance"/>
+		<group id="23" type="span" parent="31" relname="span"/>
+		<group id="24" type="span" parent="12" relname="e-elaboration"/>
+		<group id="26" type="span" parent="27" relname="span"/>
+		<group id="27" type="span" parent="34" relname="contrast"/>
+		<group id="31" type="span" />
+		<group id="33" type="multinuc" parent="35" relname="interpretation"/>
+		<group id="34" type="multinuc" parent="6" relname="elaboration"/>
+		<group id="35" type="span" parent="36" relname="span"/>
+		<group id="36" type="span" parent="23" relname="elaboration"/>
+	</body>
+</rst>

@@ -1,0 +1,77 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="" type="rst"/>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="conjunction" type="multinuc"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="disjunction" type="multinuc"/>
+			<rel name="e-elaboration" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-n" type="rst"/>
+			<rel name="evaluation-s" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="list" type="multinuc"/>
+			<rel name="means" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="reason-N" type="rst"/>
+			<rel name="reason" type="rst"/>
+			<rel name="restatement-mn" type="multinuc"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sameunit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood-N" type="rst"/>
+			<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+			<rel name="unconditional" type="rst"/>
+			<rel name="unless" type="rst"/>
+			<rel name="unstated-relation" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="33" relname="evaluation-s">Der Ausbau des Flughafens Schönefeld wird nun auch für die PDS zu einer echten Gretchenfrage .</segment>
+		<segment id="2" parent="3" relname="circumstance">Kaum haben sich ihre Verhandlungsführer in Berlin mit der SPD darauf geeinigt ,</segment>
+		<segment id="3" parent="16" relname="span">reiben sich die Genossen in der Region verwundert die Augen .</segment>
+		<segment id="4" parent="5" relname="concession">Sicher , entschieden ist noch lange nichts .</segment>
+		<segment id="5" parent="21" relname="span">Doch was jetzt an Nachrichten aus der Hauptstadt ins Dahmeland hinüber schwappt , hört sich so ganz anders an als das , was PDS-Spitzen unlängst noch im Bürgermeisterwahlkampf verkündeten .</segment>
+		<segment id="6" parent="20" relname="span">Den Standort Schönefeld lehnten sie kategorisch ab .</segment>
+		<segment id="7" parent="8" relname="concession">Zwar immer mit dem leisen Hinweis darauf , dass man sich stets auch an dem zu orientieren habe , was in den Planungen längst auf den Weg gebracht ist .</segment>
+		<segment id="8" parent="32" relname="span">Aber immer noch deutlich genug , dass die vielen Standortgegner in den Gemeinden die Botschaft wohl verstanden :</segment>
+		<segment id="9" parent="17" relname="list">die PDS-Leute setzen sich für unsere Interessen ein ,</segment>
+		<segment id="10" parent="17" relname="list">sie sind in der Politik unsere Verbündeten .</segment>
+		<segment id="11" parent="19" relname="span">Jetzt sind sie doch ein bisschen dafür .</segment>
+		<segment id="12" parent="18" relname="list">Prompt spricht der Bürgerverein BVBB von " politisch-moralischer Verkommenheit " ,</segment>
+		<segment id="13" parent="18" relname="list">ist Schulzendorfs Bürgermeister enttäuscht ,</segment>
+		<segment id="14" parent="18" relname="list">sieht Königs Wusterhausens künftiger Bürgermeister Widersprüchliches .</segment>
+		<segment id="15" parent="22" relname="interpretation">Die Genossen von der PDS haben jetzt einiges aufzuarbeiten .</segment>
+		<group id="16" type="span" parent="21" relname="background"/>
+		<group id="17" type="multinuc" parent="24" relname="span"/>
+		<group id="18" type="multinuc" parent="22" relname="span"/>
+		<group id="19" type="span" parent="25" relname="contrast"/>
+		<group id="20" type="span" parent="25" relname="contrast"/>
+		<group id="21" type="span" parent="34" relname="span"/>
+		<group id="22" type="span" parent="23" relname="span"/>
+		<group id="23" type="span" parent="11" relname="result"/>
+		<group id="24" type="span" parent="31" relname="span"/>
+		<group id="25" type="multinuc" parent="34" relname="evidence"/>
+		<group id="27" type="span" />
+		<group id="31" type="span" parent="6" relname="reason"/>
+		<group id="32" type="span" parent="24" relname="preparation"/>
+		<group id="33" type="span" parent="27" relname="span"/>
+		<group id="34" type="span" parent="33" relname="span"/>
+	</body>
+</rst>

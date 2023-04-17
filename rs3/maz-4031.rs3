@@ -1,0 +1,82 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="" type="rst"/>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="conjunction" type="multinuc"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="disjunction" type="multinuc"/>
+			<rel name="e-elaboration" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-n" type="rst"/>
+			<rel name="evaluation-s" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="list" type="multinuc"/>
+			<rel name="means" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="reason-N" type="rst"/>
+			<rel name="reason" type="rst"/>
+			<rel name="restatement-mn" type="multinuc"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sameunit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+			<rel name="unconditional" type="rst"/>
+			<rel name="unless" type="rst"/>
+			<rel name="unstated-relation" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="30" relname="preparation">Unterm Strich 400000 !</segment>
+		<segment id="2" parent="30" relname="span">Die Besucherquote lässt die Ausrichter des Preußenjahres schon zweieinhalb Monate vor seinem Ende frohlocken .</segment>
+		<segment id="3" parent="22" relname="span">Das Hohenzollernland ist immer noch in ,</segment>
+		<segment id="4" parent="3" relname="attribution">schließen Brandenburgs Kulturministerin Wanka und ihre Berliner Kollegin Goehler aus dieser Erhebung .</segment>
+		<segment id="5" parent="36" relname="span">Kritikern , die der borussischen Kampagne Thesenlosigkeit und Beliebigkeit vorwarfen , können sie endlich mit Zahlen kommen .</segment>
+		<segment id="6" parent="21" relname="span">Mögen die mitunter auch interessant nach oben korrigiert sein :</segment>
+		<segment id="7" parent="29" relname="span">So endete die große Berliner Eröffnungsschau " Preußen 1701 "</segment>
+		<segment id="8" parent="7" relname="attribution">laut Veranstalter ,</segment>
+		<segment id="9" parent="28" relname="sameunit">immerhin das ehrenwerte Deutsche Historische Museum , mit 72000 Besuchern .</segment>
+		<segment id="10" parent="11" relname="attribution">Nach der jetzt offiziellen Statistik</segment>
+		<segment id="11" parent="23" relname="span">sollen 's 80000 gewesen sein .</segment>
+		<segment id="12" parent="20" relname="evaluation-s">Wohl eine Petitesse .</segment>
+		<segment id="13" parent="26" relname="span">Eher unter inhaltlichen Gesichtspunkten ist ferner bemerkenswert , dass gerade jene Ausstellungen am besten abschnitten , die</segment>
+		<segment id="14" parent="13" relname="concession">- auch wenn Preußen im Titel vorkam -</segment>
+		<segment id="15" parent="25" relname="sameunit">so gut wie nichts mit Preußen zu tun hatten .</segment>
+		<segment id="16" parent="27" relname="evidence">Die Malerei Kirchners und Caravaggios wollten 110000 respektive 74000 sehen .</segment>
+		<segment id="17" parent="19" relname="span">Nun gut .</segment>
+		<segment id="18" parent="17" relname="condition">Wenn Zahlenspiele dem Ruhme Preußens dienen ...</segment>
+		<group id="19" type="span" parent="36" relname="evaluation-s"/>
+		<group id="20" type="multinuc" parent="31" relname="span"/>
+		<group id="21" type="span" parent="32" relname="list"/>
+		<group id="22" type="span" parent="2" relname="reason-N"/>
+		<group id="23" type="span" parent="20" relname="contrast"/>
+		<group id="24" type="span" parent="32" relname="list"/>
+		<group id="25" type="multinuc" parent="27" relname="span"/>
+		<group id="26" type="span" parent="25" relname="sameunit"/>
+		<group id="27" type="span" parent="24" relname="span"/>
+		<group id="28" type="multinuc" parent="20" relname="contrast"/>
+		<group id="29" type="span" parent="28" relname="sameunit"/>
+		<group id="30" type="span" parent="34" relname="span"/>
+		<group id="31" type="span" parent="6" relname="evidence"/>
+		<group id="32" type="multinuc" parent="5" relname="concession"/>
+		<group id="34" type="span" parent="35" relname="span"/>
+		<group id="35" type="span" />
+		<group id="36" type="span" parent="39" relname="span"/>
+		<group id="39" type="span" parent="34" relname="result"/>
+	</body>
+</rst>

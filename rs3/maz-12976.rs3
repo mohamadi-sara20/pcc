@@ -1,0 +1,79 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="" type="rst"/>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="conjunction" type="multinuc"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="disjunction" type="multinuc"/>
+			<rel name="e-elaboration" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-n" type="rst"/>
+			<rel name="evaluation-s" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="list" type="multinuc"/>
+			<rel name="means" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="reason-N" type="rst"/>
+			<rel name="reason" type="rst"/>
+			<rel name="restatement-mn" type="multinuc"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sameunit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood-N" type="rst"/>
+			<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+			<rel name="unconditional" type="rst"/>
+			<rel name="unless" type="rst"/>
+			<rel name="unstated-relation" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="2" relname="attribution">Umweltminister Jürgen Trittin hat es erst gestern wieder unumwunden ausgesprochen :</segment>
+		<segment id="2" parent="22" relname="span">Die Krise ist bei den Grünen der Normalzustand .</segment>
+		<segment id="3" parent="4" relname="concession">So schonungslose Offenheit ist an sich zwar bemerkenswert ,</segment>
+		<segment id="4" parent="21" relname="span">sie beantwortet aber nicht die Frage , weshalb man eine " Krisenpartei " in der Bundesregierung braucht .</segment>
+		<segment id="5" parent="6" relname="condition">Wenn die Vorzeichen nicht trügen ,</segment>
+		<segment id="6" parent="19" relname="span">so könnte in Rostock in der Tat wieder einmal ein klassischer Kompromiss herauskommen - gegen den Militär-Einsatz und für die weitere Beteiligung an der Bundesregierung .</segment>
+		<segment id="7" parent="20" relname="span">Außenminister Joschka Fischer freilich darf seiner Basis solche politischen Kindereien nicht durchgehen lassen .</segment>
+		<segment id="8" parent="18" relname="conjunction">Es kann nicht sein , dass die Basis gewissermaßen die Moral pachtet</segment>
+		<segment id="9" parent="18" relname="conjunction">und ihn die realpolitische Schmutzarbeit machen lässt .</segment>
+		<segment id="10" parent="25" relname="span">Den Einsatz " zur Kenntnis zu nehmen " ,</segment>
+		<segment id="11" parent="10" relname="attribution">wie Brandenburgs Grüne dies wollen ,</segment>
+		<segment id="12" parent="24" relname="sameunit">ist der Gipfel parteipolitischer Bigotterie :</segment>
+		<segment id="13" parent="16" relname="conjunction">Entweder die Basis stützt den Minister</segment>
+		<segment id="14" parent="16" relname="conjunction">oder sie stürzt ihn .</segment>
+		<segment id="15" parent="32" relname="restatement">Dazwischen gibt es nichts .</segment>
+		<group id="16" type="multinuc" parent="32" relname="span"/>
+		<group id="17" type="span" parent="26" relname="span"/>
+		<group id="18" type="multinuc" parent="28" relname="span"/>
+		<group id="19" type="span" parent="27" relname="contrast"/>
+		<group id="20" type="span" parent="27" relname="contrast"/>
+		<group id="21" type="span" parent="22" relname="evaluation-s"/>
+		<group id="22" type="span" parent="33" relname="span"/>
+		<group id="24" type="multinuc" parent="17" relname="reason-N"/>
+		<group id="25" type="span" parent="24" relname="sameunit"/>
+		<group id="26" type="span" parent="28" relname="elaboration"/>
+		<group id="27" type="multinuc" parent="30" relname="span"/>
+		<group id="28" type="span" parent="29" relname="span"/>
+		<group id="29" type="span" parent="7" relname="reason"/>
+		<group id="30" type="span" parent="31" relname="span"/>
+		<group id="31" type="span" />
+		<group id="32" type="span" parent="17" relname="span"/>
+		<group id="33" type="span" parent="30" relname="background"/>
+	</body>
+</rst>

@@ -1,0 +1,70 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="conjunction" type="multinuc"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="disjunction" type="multinuc"/>
+			<rel name="e-elaboration" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-n" type="rst"/>
+			<rel name="evaluation-s" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="list" type="multinuc"/>
+			<rel name="means" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="reason" type="rst"/>
+			<rel name="restatement-mn" type="multinuc"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+			<rel name="unconditional" type="rst"/>
+			<rel name="unless" type="rst"/>
+			<rel name="unstated-relation" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="34" relname="contrast">Unter den vielen Lobreden wäre gestern am neuen Hauptsitz des Instituts für Klimafolgenforschung fast die Tatsache in Vergessenheit geraten , dass dessen Direktor Schellnhuber kürzlich um ein Haar ins Ausland abgewandert wäre .</segment>
+		<segment id="2" parent="29" relname="span">Dass er doch geblieben ist , hat vordergründig mit mehr Geld fürs Institut zu tun :</segment>
+		<segment id="3" parent="2" relname="antithesis">Wieso Spitzenforscher aus aller Welt in Potsdam arbeiten wollen , erklärt das alleine nicht .</segment>
+		<segment id="4" parent="33" relname="span">Die Stadt hat was .</segment>
+		<segment id="5" parent="19" relname="preparation">Aber was ?</segment>
+		<segment id="6" parent="15" relname="span">Legendäre Wissenschaftstempel wie das astrophysikalische Institut haben Tradition und Flair</segment>
+		<segment id="7" parent="6" relname="elaboration">- das treibt dem ehemaligen AIP-Direktor Hasinger die Gänsehaut in den Nacken .</segment>
+		<segment id="8" parent="16" relname="span">Die Nähe zur Landesregierung ist ein Standortvorteil ,</segment>
+		<segment id="9" parent="8" relname="evidence">wie das Tauziehen um Schellnhuber beweist .</segment>
+		<segment id="10" parent="17" relname="span">Und kaum eine Region Deutschlands hat ein derart dichtes Netz von kooperierenden Wissenschaftseinrichtungen zu bieten</segment>
+		<segment id="11" parent="10" relname="evidence">- der Erfolg des interdisziplinären Helmholtz-Instituts für die Schulung an Supercomputern spricht Bände .</segment>
+		<segment id="12" parent="24" relname="span">Nun kommt es darauf an , sich nicht auf Einsteins Lorbeeren auszuruhen .</segment>
+		<segment id="13" parent="12" relname="reason">Denn weiche Standortfaktoren allein reichen nicht aus .</segment>
+		<segment id="14" parent="36" relname="list">Brandenburg muss endlich die rote Laterne in der Wissenschaftsförderung abgeben .</segment>
+		<group id="15" type="span" parent="18" relname="list"/>
+		<group id="16" type="span" parent="18" relname="list"/>
+		<group id="17" type="span" parent="18" relname="list"/>
+		<group id="18" type="multinuc" parent="19" relname="span"/>
+		<group id="19" type="span" parent="31" relname="span"/>
+		<group id="24" type="span" parent="36" relname="list"/>
+		<group id="29" type="span" parent="34" relname="contrast"/>
+		<group id="31" type="span" parent="4" relname="evidence"/>
+		<group id="33" type="span" parent="35" relname="concession"/>
+		<group id="34" type="multinuc" parent="37" relname="background"/>
+		<group id="35" type="span" parent="37" relname="span"/>
+		<group id="36" type="multinuc" parent="35" relname="span"/>
+		<group id="37" type="span" parent="38" relname="span"/>
+		<group id="38" type="span" />
+	</body>
+</rst>
